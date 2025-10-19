@@ -2,7 +2,7 @@ import { apiKey, useProxy, proxy, DEFAULT_RADIUS, useMock } from './config.js';
 
 export async function fetchNearbyPlaces(lat, lng, type = 'cafe', radius = DEFAULT_RADIUS) {
   if (useMock) {
-    const resp = await fetch('/data/mock-places.json');
+    const resp = await fetch('data/mock-places.json');
     if (!resp.ok) throw new Error(`Mock data HTTP ${resp.status}`);
     return resp.json();
   }
