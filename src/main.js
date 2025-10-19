@@ -4,6 +4,7 @@ import { renderPlaces, clearCards } from './ui.js';
 import { attachHammer, initStack } from './hammer.js';
 import { getSavedCafes, addCafe } from './storage.js';
 import { showToast } from './toast.js';
+import { useMock } from './config.js';
 
 function handlePlacesData(data) {
   if (data && data.status && data.status !== 'OK') {
@@ -21,6 +22,17 @@ function handlePlacesData(data) {
 
 export async function initApp() {
   window.getLocation = async function() {
+    if (useMock) {
+      try {
+        const data = await fetchNearbyPlaces();
+        handlePlacesData(data);
+      } catch (e) {
+        console.error(e);
+        showToast('Failed to retrieve mock data. Please check the console.');
+      }
+      return;
+    }
+
     const cache = getCachedLocation();
     const now = Date.now();
     
