@@ -27,7 +27,7 @@ A simple, modern, and elegant web app for finding and saving your favorite cafes
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/cafe-finder.git
+    git clone https://github.com/wauxi/cafe-finder.git
     cd cafe-finder
     ```
 
