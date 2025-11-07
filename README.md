@@ -12,7 +12,6 @@ A simple, modern, and elegant web app for finding and saving your favorite cafes
 -   **Interactive Swipe Interface**: Tinder-style card swiping powered by [Hammer.js](http://hammerjs.github.io/).
 -   **Local Storage**: Save your favorite cafes and access them anytime.
 -   **Clean & Modern UI**: A minimalist design with smooth animations.
--   **Responsive**: Works seamlessly on both desktop and mobile devices.
 -   **Zero Dependencies**: Built with pure JavaScript, HTML, and CSS.
 -   **Mock Mode**: Includes sample data for a quick demo without needing API keys.
 
