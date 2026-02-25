@@ -1,0 +1,21 @@
+{
+  "results": [
+    { "name": "Elysia's Flower Field", "place_id": "mock_1", "rating": 4.8, "photo": "img/Pasted image 20251018223123.png", "vicinity": "Flower Valley", "geometry": { "location": { "lat": 53.2335, "lng": 50.2534 } } },
+    { "name": "Nagazora's School Rooftop", "place_id": "mock_2", "rating": 4.6, "photo": "img/Pasted image 20251018223334.png", "vicinity": "Rooftop School", "geometry": { "location": { "lat": 53.2339, "lng": 50.2538 } } },
+    { "name": "Just a Random Spot with Phainon", "place_id": "mock_3", "rating": 4.1, "photo": "img/Pasted image 20251018223721.png", "vicinity": "Unknown", "geometry": { "location": { "lat": 53.2341, "lng": 50.2542 } } },
+    { "name": "Silly School Classroom", "place_id": "mock_4", "rating": 4.0, "photo": "img/Pasted image 20251018224029.png", "vicinity": "Old School", "geometry": { "location": { "lat": 53.2332, "lng": 50.2522 } } },
+    { "name": "Unknown Spot", "place_id": "mock_5", "rating": 3.9, "photo": "img/Pasted image 20251018224127.png", "vicinity": "Mystery Lane", "geometry": { "location": { "lat": 53.2328, "lng": 50.2518 } } },
+    { "name": "Piltover City Center", "place_id": "mock_6", "rating": 4.4, "photo": "img/Pasted image 20251018224237.png", "vicinity": "Central Plaza", "geometry": { "location": { "lat": 53.2338, "lng": 50.2530 } } },
+    { "name": "Random Bar", "place_id": "mock_7", "rating": 4.3, "photo": "img/Pasted image 20251018224309.png", "vicinity": "Night Row", "geometry": { "location": { "lat": 53.2343, "lng": 50.2545 } } },
+    { "name": "Hotel Room", "place_id": "mock_8", "rating": 4.2, "photo": "img/Pasted image 20251018224403.png", "vicinity": "Suite 12", "geometry": { "location": { "lat": 53.2336, "lng": 50.2536 } } },
+    { "name": "King's Chambers", "place_id": "mock_9", "rating": 4.7, "photo": "img/Pasted image 20251018224704.png", "vicinity": "Royal Wing", "geometry": { "location": { "lat": 53.2331, "lng": 50.2527 } } },
+    { "name": "Typical American House", "place_id": "mock_10", "rating": 4.0, "photo": "img/Pasted image 20251018224924.png", "vicinity": "Suburbia", "geometry": { "location": { "lat": 53.2325, "lng": 50.2515 } } },
+    { "name": "Ex-Discord Guy's Room", "place_id": "mock_11", "rating": 3.8, "photo": "img/Pasted image 20251018225125.png", "vicinity": "Basement", "geometry": { "location": { "lat": 53.2330, "lng": 50.2525 } } },
+    { "name": "Spot with a Squirrel", "place_id": "mock_12", "rating": 4.5, "photo": "img/Pasted image 20251018225445.png", "vicinity": "Park Side", "geometry": { "location": { "lat": 53.2345, "lng": 50.2550 } } },
+    { "name": "Southern Europe", "place_id": "mock_13", "rating": 4.6, "photo": "img/Pasted image 20251018225542.png", "vicinity": "Coastal Street", "geometry": { "location": { "lat": 53.2348, "lng": 50.2553 } } },
+    { "name": "This Spot", "place_id": "mock_14", "rating": 4.2, "photo": "img/Pasted image 20251018225600.png", "vicinity": "Here & Now", "geometry": { "location": { "lat": 53.2333, "lng": 50.2533 } } },
+    { "name": "Berlin Street at Night", "place_id": "mock_15", "rating": 4.4, "photo": "img/Pasted image 20251018225738.png", "vicinity": "Night Route", "geometry": { "location": { "lat": 53.2350, "lng": 50.2555 } } },
+    { "name": "Rails in Brest", "place_id": "mock_16", "rating": 4.1, "photo": "img/Pasted image 20251018225931.png", "vicinity": "Old Tracks", "geometry": { "location": { "lat": 53.2320, "lng": 50.2505 } } }
+  ],
+  "status": "OK"
+}
